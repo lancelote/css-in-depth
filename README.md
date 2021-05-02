@@ -6,7 +6,7 @@ My experiments with "[CSS in Depth][1]" by Keith J. Grant book examples
 
 ## TOC
 
-- [ ] [Chapter 1: Cascade, specificity, and inheritance](src/ch01)
+- [x] [Chapter 1: Cascade, specificity, and inheritance](src/ch01)
 - [ ] Chapter 2: Working with relative units
 - [ ] Chapter 3: Mastering the box model
 - [ ] Chapter 4: Making sense of floats
