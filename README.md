@@ -7,6 +7,7 @@ My experiments with "[CSS in Depth][1]" by Keith J. Grant book examples
 ## TOC
 
 - [x] [Chapter 1: Cascade, specificity, and inheritance](src/ch01)
+  - [Selectors](src/ch01/selectors)
 - [ ] [Chapter 2: Working with relative units](src/ch02)
   - [`em`s](src/ch02/ems)
   - [Other Relative Units](src/ch02/relative_units)
