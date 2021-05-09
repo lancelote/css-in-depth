@@ -25,3 +25,5 @@ My experiments with "[CSS in Depth][1]" by Keith J. Grant book examples
 - [ ] Chapter 14: Transitions
 - [ ] Chapter 15: Transforms
 - [ ] Chapter 16: Animations
+- [x] Appendix A. Selectors reference
+- [ ] Appendix B. Preprocessors
