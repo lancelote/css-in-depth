@@ -13,6 +13,7 @@ My experiments with "[CSS in Depth][1]" by Keith J. Grant book examples
   - [Other Relative Units](src/ch02/relative_units)
   - [Media Query](src/ch02/media_query)
   - [Resizing with Classes](src/ch02/resizing_single_component)
+  - [Viewport](src/ch02/viewport)
 - [ ] Chapter 3: Mastering the box model
 - [ ] Chapter 4: Making sense of floats
 - [ ] Chapter 5: Flexbox
